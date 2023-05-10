@@ -2,3 +2,5 @@
 /intermediatePhysicsExperiment/1microBrown_0508_1Processed.avi filter=lfs diff=lfs merge=lfs -text
 intermediatePhysicsExperiment/1microBrown_0508_1Processed.avi filter=lfs diff=lfs merge=lfs -text
 intermediatePhysicsExperiment/1microBrown_0508_2Processed.avi filter=lfs diff=lfs merge=lfs -text
+intermediatePhysicsExperiment/1microBrown0508_2Processed.avi filter=lfs diff=lfs merge=lfs -text
+intermediatePhysicsExperiment/1microCalibrate_0(for[[:space:]]2micro).avi filter=lfs diff=lfs merge=lfs -text
