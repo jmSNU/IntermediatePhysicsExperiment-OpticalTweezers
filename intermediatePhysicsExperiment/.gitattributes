@@ -2,3 +2,6 @@
 3microBrownFinal.avi filter=lfs diff=lfs merge=lfs -text
 3microBrown.avi filter=lfs diff=lfs merge=lfs -text
 1microBrown0508_1.avi filter=lfs diff=lfs merge=lfs -text
+1microBrown_0508_1.avi filter=lfs diff=lfs merge=lfs -text
+1microBrown0508_2.avi filter=lfs diff=lfs merge=lfs -text
+1microBrown0508_3.avi filter=lfs diff=lfs merge=lfs -text
